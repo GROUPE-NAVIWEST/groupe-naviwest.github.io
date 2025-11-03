@@ -9,6 +9,7 @@ Tous les changements de Naviwest.Mobile seront documentés dans ce fichier.
 ### Ajouté
 - Suppression d'une ligne de feuille de temps
 - Suppression d'une ligne de charge
+- Filtrer l'affichage des ressources bloquées
 
 ### Note
 - Nécéssite la version 26.2.0.3 de l'extension Business central.
