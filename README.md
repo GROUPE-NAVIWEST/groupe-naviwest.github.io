@@ -1,4 +1,4 @@
-# Changelog
+ # Changelog
 
 Tous les changements de Naviwest.Mobile seront documentés dans ce fichier.
 
@@ -10,6 +10,11 @@ Tous les changements de Naviwest.Mobile seront documentés dans ce fichier.
 - Suppression d'une ligne de feuille de temps
 - Suppression d'une ligne de charge
 - Filtrer l'affichage des ressources bloquées
+- Gestion des matériels
+- Affichage des montants des primes et matériels
+
+### Modifié
+- Correction du plantage de l'appli lors de la sélection d'une charge 
 
 ### Note
 - Nécéssite la version 26.2.0.3 de l'extension Business central.
