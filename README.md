@@ -14,7 +14,8 @@ Tous les changements de Naviwest.Mobile seront documentés dans ce fichier.
 - Affichage des montants des primes et matériels
 
 ### Modifié
-- Correction du plantage de l'appli lors de la sélection d'une charge 
+- Correction du plantage de l'appli lors de la sélection d'une charge
+- Gestion des erreurs
 
 ### Note
 - Nécéssite la version 26.2.0.3 de l'extension Business central.
