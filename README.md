@@ -15,10 +15,11 @@ Tous les changements de Naviwest.Mobile seront documentés dans ce fichier.
 
 ### Modifié
 - Correction du plantage de l'appli lors de la sélection d'une charge
-- Gestion des erreurs
+- Gestion des erreurs pour toutes les communications avec Naviwest
+- Désormais les jours avec une quantité égale à 0 ne sont plus sauvegardés dans Naviwest
 
 ### Note
-- Nécéssite la version 26.2.0.3 de l'extension Business central.
+- Nécéssite la version 26.2.0.3 de l'extension Business central
 
 ---
 
